@@ -33,129 +33,143 @@
  -->
  <familyset>
  
-@@ -27,6 +27,8 @@
+@@ -27,6 +27,9 @@
              <name>verdana</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>Roboto-Regular.ttf</file>
              <file>Roboto-Bold.ttf</file>
              <file>Roboto-Italic.ttf</file>
-@@ -39,6 +41,8 @@
+@@ -39,6 +41,9 @@
              <name>sans-serif-light</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>Roboto-Light.ttf</file>
              <file>Roboto-LightItalic.ttf</file>
          </fileset>
-@@ -49,6 +53,8 @@
+@@ -49,6 +53,9 @@
              <name>sans-serif-thin</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>Roboto-Thin.ttf</file>
              <file>Roboto-ThinItalic.ttf</file>
          </fileset>
-@@ -59,6 +65,8 @@
+@@ -59,6 +65,9 @@
              <name>sans-serif-condensed</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>RobotoCondensed-Regular.ttf</file>
              <file>RobotoCondensed-Bold.ttf</file>
              <file>RobotoCondensed-Italic.ttf</file>
-@@ -71,6 +79,8 @@
+@@ -71,6 +79,9 @@
              <name>sans-serif-medium</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>Roboto-Medium.ttf</file>
              <file>Roboto-MediumItalic.ttf</file>
          </fileset>
-@@ -81,6 +91,8 @@
+@@ -81,6 +91,9 @@
              <name>sans-serif-black</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>Roboto-Black.ttf</file>
              <file>Roboto-BlackItalic.ttf</file>
          </fileset>
-@@ -91,6 +103,8 @@
+@@ -91,6 +103,9 @@
              <name>sans-serif-condensed-light</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>RobotoCondensed-Light.ttf</file>
              <file>RobotoCondensed-LightItalic.ttf</file>
          </fileset>
-@@ -109,6 +123,8 @@
+@@ -109,6 +123,9 @@
              <name>ITC Stone Serif</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>NotoSerif-Regular.ttf</file>
              <file>NotoSerif-Bold.ttf</file>
              <file>NotoSerif-Italic.ttf</file>
-@@ -121,6 +137,8 @@
+@@ -121,6 +137,9 @@
              <name>Droid Sans</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>DroidSans.ttf</file>
              <file>DroidSans-Bold.ttf</file>
          </fileset>
-@@ -133,6 +151,8 @@
+@@ -133,6 +151,9 @@
              <name>monaco</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>DroidSansMono.ttf</file>
          </fileset>
      </family>
-@@ -144,6 +164,8 @@
+@@ -144,6 +164,9 @@
              <name>courier new</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>CutiveMono.ttf</file>
          </fileset>
      </family>
-@@ -153,6 +175,8 @@
+@@ -153,6 +175,9 @@
              <name>casual</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>ComingSoon.ttf</file>
          </fileset>
      </family>
-@@ -162,6 +186,8 @@
+@@ -162,6 +186,9 @@
              <name>cursive</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>DancingScript-Regular.ttf</file>
              <file>DancingScript-Bold.ttf</file>
          </fileset>
-@@ -172,6 +198,8 @@
+@@ -172,6 +198,9 @@
              <name>sans-serif-smallcaps</name>
          </nameset>
          <fileset>
 +            <file>Ricty-Regular.ttf</file>
 +            <file>Ricty-Bold.ttf</file>
++            <file>Ricty-Oblique.ttf</file>
              <file>CarroisGothicSC-Regular.ttf</file>
          </fileset>
      </family>
