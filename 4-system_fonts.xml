@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+System Fonts
+
+This file lists the font families that will be used by default for all supported glyphs.
+Each entry consists of a family, various names that are supported by that family, and
+up to four font files. The font files are listed in the order of the styles which they
+support: regular, bold, italic and bold-italic. If less than four styles are listed, then
+the styles with no associated font file will be supported by the other font files listed.
+
+The first family is also the default font, which handles font request that have not specified
+specific font names.
+
+Any glyph that is not handled by the system fonts will cause a search of the fallback fonts.
+The default fallback fonts are specified in the file /system/etc/fallback_fonts.xml, and there
+is an optional file which may be supplied by vendors to specify other fallback fonts to use
+in /vendor/etc/fallback_fonts.xml.
+-->
+<familyset>
+
+  <family>
+    <nameset>
+      <name>Droid Sans</name>
+      <name>ITC Stone Serif</name>
+      <name>arial</name>
+      <name>baskerville</name>
+      <name>courier new</name>
+      <name>courier</name>
+      <name>cursive</name>
+      <name>fantasy</name>
+      <name>georgia</name>
+      <name>goudy</name>
+      <name>helvetica</name>
+      <name>monaco</name>
+      <name>monospace</name>
+      <name>palatino</name>
+      <name>sans-serif-condensed</name>
+      <name>sans-serif-light</name>
+      <name>sans-serif-thin</name>
+      <name>sans-serif</name>
+      <name>serif</name>
+      <name>tahoma</name>
+      <name>times new roman</name>
+      <name>times</name>
+      <name>verdana</name>
+    </nameset>
+    <fileset>
+      <file>Ricty-Regular.ttf</file>
+      <file>Ricty-Oblique.ttf</file>
+      <file>Ricty-Bold.ttf</file>
+      <file>Ricty-BoldOblique.ttf</file>
+    </fileset>
+  </family>
+
+</familyset>
